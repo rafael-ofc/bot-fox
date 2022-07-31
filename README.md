@@ -51,7 +51,7 @@ sh start.sh
 
 <h1 align="center">
 <p>
-<img src= "https://user-images.githubusercontent.com/108157095/182040453-640c7015-e9bd-402b-81c0-66833b1ef57e.png" alt="BOT FOX" width="720">
+<img src= "https://user-images.githubusercontent.com/108157095/182040748-abc9d0b8-2f14-4e6d-ba4c-00ee9b97440d.png" alt="BOT FOX" width="720">
 </p>
 </p>
 
