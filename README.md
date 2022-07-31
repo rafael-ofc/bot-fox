@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img title="Author" src="https://img.shields.io/badge/Author-RAFAEL-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Autor" src="https://img.shields.io/badge/Autor-RAFAEL-orange.svg?style=for-the-badge&logo=github"></a>
 <img title="Versão" src="https://img.shields.io/badge/Versão-2.0.0-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
