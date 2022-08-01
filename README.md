@@ -1,9 +1,8 @@
-# Bot Fox
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF4500&center=falso&vCenter=falso&lines=BOT+FOX;BOT+MULTI-DEVICE;ESPERO+QUE+GOSTEM">
 
 <h1 align="center">
 <p>
 <img src= "https://user-images.githubusercontent.com/108157095/182037873-aac6bd48-f46d-4707-9767-2d925bce80f0.png" alt="BOT FOX" width="720">
-</p>
 </p>
 
 <p align="center">
