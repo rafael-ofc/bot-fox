@@ -54,22 +54,22 @@ sh start.sh
 </p>
 </p>
 
-## Iniciar o Bot
+## Iniciar o Bot  <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
 ```
 sh start.sh
 ```
 
-## Gerar um novo QR
+## Gerar um novo QR  <img src="https://user-images.githubusercontent.com/108157095/182053978-d1a08952-4625-4e3f-b469-c8ebe4f22ac8.png" height="25px">
 ```
 sh qrcode.sh
 ```
 
-## Hospedar no Heroku
+## Hospedar no Heroku  <img src="https://user-images.githubusercontent.com/108157095/182054191-3d574e01-39cd-45f3-bbde-3b646eae2ca0.png" height="25px">
 ```
 sh hospedar.sh
 ```
 
-## Atualizar pro Heroku
+## Atualizar pro Heroku  <img src="https://user-images.githubusercontent.com/108157095/182054450-a86e4fd0-623c-4748-bfea-ef94375fa8b7.png" height="25px">
 ```
 sh heroku.sh
 ```
