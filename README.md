@@ -47,13 +47,6 @@ cd bot-fox
 ```
 sh start.sh
 ```
-
-<h1 align="center">
-<p>
-<img src= "https://user-images.githubusercontent.com/108157095/182040748-abc9d0b8-2f14-4e6d-ba4c-00ee9b97440d.png" alt="BOT FOX" width="720">
-</p>
-</p>
-
 ## Iniciar o Bot  <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
 ```
 sh start.sh
